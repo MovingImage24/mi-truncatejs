@@ -1,6 +1,7 @@
 {
   "name": "mi-truncatejs",
   "version": "0.1.0",
+  "private": true,
   "description": "Truncate text by specifying number of lines.",
   "author": {
     "name": "MovingIMAGE24",
