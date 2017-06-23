@@ -1,0 +1,28 @@
+{
+  "name": "mi-truncatejs",
+  "version": "0.1.0",
+  "description": "Truncate text by specifying number of lines.",
+  "author": {
+    "name": "MovingIMAGE24",
+    "url": "http://www.movingimage24.com/"
+  },
+  "contributors": [
+    {
+      "name": "Robert Szekér",
+      "email": "robert.szeker@movingimage.com"
+    }
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MovingImage24/mi-truncatejs.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MovingImage24/mi-truncatejs/issues"
+  },
+  "homepage": "https://github.com/MovingImage24/mi-truncatejs#readme",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
