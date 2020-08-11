@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/MovingImage24/mi-truncatejs#readme",
   "dependencies": {
-    "jquery": "^2.1.4"
+    "jquery": "^3.5.1"
   }
 }
